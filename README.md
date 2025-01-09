@@ -1,7 +1,7 @@
 # ProteinF3S
 ===
 This repository represents the official implementation of the paper:
-[ProteinF3S](https://academic.oup.com/bib/article/26/1/bbae695/7942219)
+[ProteinF3S: boosting enzyme function prediction by fusing protein sequence, structure, and surface](https://academic.oup.com/bib/article/26/1/bbae695/7942219)
 
 
 
